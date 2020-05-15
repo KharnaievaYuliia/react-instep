@@ -1,4 +1,4 @@
-import {namemy} from "./_subfile.js"
+
 
 let student = {name:"Yuliia", surname: "Kharnaieva", age: 36};
 let {name, surname, age } = student;
